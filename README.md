@@ -14,3 +14,13 @@ Transforming and cleaning the data
 Creating four CSV files: Category, Subcategory, Campaign, Contacts  
 Creating an Entity Relationship Diagram (ERD) and a table schema  
 Loading the CSV data into a PostgreSQL database  
+
+## Tech Stack
+Python: Programming language used for building the ETL pipeline  
+Pandas: Data analysis and manipulation tool  
+PostgreSQL: Open-source relational database used for data storage  
+Regular Expressions and Python Dictionary Methods: Used for data extraction and transformation  
+
+## Installation & Usage 
+1. Clone the Repository 
+2. Run the ETL Pipeline  

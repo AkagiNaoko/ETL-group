@@ -1,6 +1,6 @@
 # Crowdfunding Data ETL Project
 
-## Team: Ji, Ran	Gorvie, Alfred 
+## Team: Ji Ran,	Gorvie Alfred 
 
 This repository hosts the codebase for the Crowdfunding Data ETL project. This project is designed to extract, transform, and load crowdfunding data into a structured database format using Python, Pandas, and PostgreSQL.  
 

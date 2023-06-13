@@ -22,5 +22,8 @@ PostgreSQL: Open-source relational database used for data storage
 Regular Expressions and Python Dictionary Methods: Used for data extraction and transformation  
 
 ## Installation & Usage 
-1. Clone the Repository 
-2. Run the ETL Pipeline  
+1. Clone the Repository
+2. Run the jupyter notebook file "ETL_Mini_Project_JRan_AGorvie.ipynb", to get the 4 CSV files(which are already in the Resources folder)
+3. Run PostgreSQL, build a database named 'crowdfunding_db'
+4. Run the schema file "crowdfunding_db_schema.sql" to build the tables.
+5. Import CSV files.

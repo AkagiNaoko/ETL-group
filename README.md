@@ -26,4 +26,4 @@ Regular Expressions and Python Dictionary Methods: Used for data extraction and 
 2. Run the jupyter notebook file "ETL_Mini_Project_JRan_AGorvie.ipynb", to get the 4 CSV files(which are already in the Resources folder)
 3. Run PostgreSQL, build a database named 'crowdfunding_db'
 4. Run the schema file "crowdfunding_db_schema.sql" to build the tables.
-5. Import CSV files.
+5. Import CSV files to tables one by one. note: follow the order "crowdfunding_db_dbd.png" shows to avoid error.
